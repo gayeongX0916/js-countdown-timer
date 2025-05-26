@@ -12,3 +12,5 @@ HTML, CSS, JavaScript만으로 만드는 간단한 타이머
 - HTML
 - CSS
 - JavaScript
+
+![](https://velog.velcdn.com/images/gayeong__0916/post/e053c41d-5feb-4c9b-90b5-3584e4ab63eb/image.png)
